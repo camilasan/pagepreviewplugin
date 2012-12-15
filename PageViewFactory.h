@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> f17b96fa42f73da230075d8e776e924d96b950a5
 // Integrated preview of HTML/CSS documents for Quanta
 // Copyright (C) 2011 Camila Ayres
 // 
