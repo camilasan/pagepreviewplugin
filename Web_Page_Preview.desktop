@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KDevelop/Plugin
+Exec=blubb
+Name=Web Page Preview
+X-KDE-Library=PagePreviewPlugin
+X-KDE-PluginInfo-Name=Web Page Preview
+X-KDevelop-Version=12
+X-KDevelop-Mode=GUI
+X-KDevelop-Category=Utilities
+Comment=Integrated preview of HTML/CSS documents.
+X-KDE-PluginInfo-Author=Camila Ayres
+X-KDE-PluginInfo-License=GPL
+X-KDevelop-Interfaces=org.kdevelop.PagePreviewPlugin
